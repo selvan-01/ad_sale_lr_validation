@@ -1,7 +1,9 @@
 <p align="center">
   <img src="thumbnail30.png" width="800">
 </p>
+
 ---
+
 # 🚀 Ad Sale Prediction Dashboard  
 ### Logistic Regression Validation | Streamlit ML App
 
