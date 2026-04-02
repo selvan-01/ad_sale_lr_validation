@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail30.png" width="800">
+</p>
+---
 # 🚀 Ad Sale Prediction Dashboard  
 ### Logistic Regression Validation | Streamlit ML App
 
@@ -169,6 +173,11 @@ If you like this project:
 - Connect with me  
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/ad_sale_lr_validation.git)
 
 ## 📬 Contact
 
